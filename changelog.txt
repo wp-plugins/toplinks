@@ -1,0 +1,34 @@
+Changelog for the Friendsroll plugin.
+See http://friendsroll.com
+
+June 24, 2008 (1.2)
+-------------------
+* Added MIT License
+
+April 11, 2008 (1.2beta)
+------------------------
+* Update to Wordpress 2.5, roll new release.
+
+March 25, 2008
+---------------
+* Add "Turn off favicon" admin option.
+
+March 19, 2008
+---------------
+* Add "Show all my toplinks" again.
+
+March 11, 2008
+--------------
+* Add this changelog.
+
+
+March 10, 2008 (1.1beta)
+-------------------------------
+* Remove "Show all my toplinks".
+* Add pagination.
+* Updates for better favicon handling.
+
+
+March 8, 2008 (1.0beta)
+-------------------------------
+* Initial release of plugin
